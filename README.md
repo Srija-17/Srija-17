@@ -1,31 +1,186 @@
+<!-- ===================== HEADER ===================== -->
+
 <h1 align="center">Hi 👋, I'm S Srija</h1>
-<h3 align="center">A passionate software developer from India who enjoys building practical solutions and learning new technologies along the way.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srija-17&label=Profile%20views&color=0e75b6&style=flat" alt="srija-17" /> </p>
+<h3 align="center">
+  Software Developer • DevOps • Generative AI • Computer Networks
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srija-17" alt="srija-17" /></a> </p>
-
-- 🔭 I’m currently working on [Auto Task Generator](https://github.com/prakharshrestha/Auto-Task-Generator.git)
-
-- 🌱 I’m currently learning **UI/UX, Canva, Figma**
-
-- 💬 Ask me about **Software Development, Generative AI & LLMs, DevOps, Computer Networks, Docker, Git/GitHub, DSA**
-
-- 📫 How to reach me **srijayadav17@gmail.com**
-
-- ⚡ Fun fact **I love to learn new skills and always try to stay updated with current trends.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/s-srija-8954b6334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-srija-8954b6334" height="30" width="40" /></a>
-<a href="https://instagram.com/northernlights_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="northernlights_04" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/s_srija17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s_srija17" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/srijayarigq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srijayarigq" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Srija-17">
+    <img src="https://komarev.com/ghpvc/?username=Srija-17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/s-srija-8954b6334">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:srijayadav17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/s_srija17">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srija-17&show_icons=true&locale=en&layout=compact" alt="srija-17" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srija-17&show_icons=true&locale=en" alt="srija-17" /></p>
+## 👩‍💻 About Me
+
+I'm a software developer from India who enjoys building practical solutions and learning how things work under the hood.
+
+* 🔭 Currently working on **Auto Task Generator**
+* 🌱 Currently exploring **UI/UX, Figma and Canva**
+* 🤖 Interested in **Generative AI, LLMs and AI-powered applications**
+* ⚙️ Exploring **DevOps, CI/CD and containerization**
+* 🌐 Strong interest in **Computer Networks and networking technologies**
+* 🧩 Enjoy solving problems using **DSA**
+* 💡 I like turning ideas into working projects and continuously improving them
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" alt="Programming Languages"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind" alt="Web Development"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and Machine Learning"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
+</p>
+
+### ⚙️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,nginx,bash,aws,grafana" alt="DevOps Tools"/>
+</p>
+
+### 🗄️ Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" alt="Databases"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Auto Task Generator
+
+An AI-powered application designed to automate task generation and simplify project/workflow management.
+
+**Focus:** Generative AI • LLM Integration • Automation
+
+🔗 [View Project](https://github.com/prakharshrestha/Auto-Task-Generator.git)
+
+---
+
+### 🌐 IP Telephony & VoIP Networking Project
+
+A Cisco Packet Tracer networking project implementing an enterprise-style IP telephony and dial-peering network with multiple departments, VLANs, routing and VoIP communication.
+
+**Focus:** Computer Networks • VoIP • VLANs • Routing • Cisco Packet Tracer
+
+🔗 [View Project](https://github.com/gokul-nath-s/IP-Telephony-VoIP-and-Dial-Peering-Networking-Project)
+
+---
+
+### 💡 More Projects
+
+I’m continuously building and experimenting with projects across software development, AI, DevOps and networking.
+
+👉 [Explore all my repositories](https://github.com/Srija-17?tab=repositories)
+
+---
+
+## 💻 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/s_srija17/">
+    <img src="https://leetcard.jacoblin.cool/s_srija17?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srija-17&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="Srija's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srija-17&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Srija-17&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srija-17&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srija-17&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📌 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srija-17&theme=github_dark" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srija-17&theme=github_dark" alt="Repositories per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srija-17&theme=github_dark" alt="Most Commit Language"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing interesting projects, learning opportunities, internships and collaborations.
+
+<p align="center">
+  <a href="https://linkedin.com/in/s-srija-8954b6334">
+    <img src="https://img.shields.io/badge/LinkedIn-S%20Srija-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:srijayadav17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-srijayadav17%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://leetcode.com/s_srija17">
+    <img src="https://img.shields.io/badge/LeetCode-s__srija17-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
+
+<p align="center">
+  ⭐ If you find any of my projects interesting, feel free to explore the repository!
+</p>
