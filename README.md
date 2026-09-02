@@ -147,7 +147,15 @@ I’m continuously building and experimenting with projects across software deve
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srija-17&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <a href="https://github.com/users/Srija-17/achievements/pull-shark">
+    <img src="https://github-profile-trophy.vercel.app/?username=Srija-17&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/users/Srija-17/achievements/pull-shark">
+    🦈 <strong>Pull Shark</strong>
+  </a>
 </p>
 
 ---
