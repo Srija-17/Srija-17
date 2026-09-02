@@ -92,16 +92,6 @@ An AI-powered application designed to automate task generation and simplify proj
 
 ---
 
-### 🌐 IP Telephony & VoIP Networking Project
-
-A Cisco Packet Tracer networking project implementing an enterprise-style IP telephony and dial-peering network with multiple departments, VLANs, routing and VoIP communication.
-
-**Focus:** Computer Networks • VoIP • VLANs • Routing • Cisco Packet Tracer
-
-🔗 [View Project](https://github.com/gokul-nath-s/IP-Telephony-VoIP-and-Dial-Peering-Networking-Project)
-
----
-
 ### 💡 More Projects
 
 I’m continuously building and experimenting with projects across software development, AI, DevOps and networking.
