@@ -110,22 +110,6 @@ I’m continuously building and experimenting with projects across software deve
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srija-17&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="Srija's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srija-17&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Srija-17&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📌 GitHub Overview
 
 <p align="center">
